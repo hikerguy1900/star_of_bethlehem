@@ -1,5 +1,5 @@
 # Star of Bethlehem
-## Introduction
+
 ```template
 function hark_the_herald_angels_sing () {
     music.setTempo(112)
@@ -230,16 +230,17 @@ forever(function () {
 })
 ```
 
-## Step
+## Introduction
 This isn't a tutorial on how to build the Star of Bethlehem
 project is a User's Guide on how to interact with it. Once you
 have read the guide and clicked finished feel free to experiment
 with your own modificatins to this program.
 
-## Step
-All inputs are through the A button on the Circuir Playground.
 
-Click the A button to advance thorugh the four weeks of Advent
+## Step
+All inputs are through the A button on the Circuit Playground.
+
+Click the A button to advance through the four weeks of Advent
 ending with a Star of Bethlehem white and yellow annimation.
 
 ## Finish
