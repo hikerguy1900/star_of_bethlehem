@@ -1,6 +1,94 @@
-input.onLoudSound(function () {
-	
-})
+function hark_the_herald_angels_sing () {
+    music.setTempo(112)
+    music.playTone(196, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Half))
+    music.playTone(247, music.beat(BeatFraction.Half))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Half))
+    music.playTone(349, music.beat(BeatFraction.Half))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Double))
+    music.rest(music.beat(BeatFraction.Sixteenth))
+    music.playTone(196, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Half))
+    music.playTone(247, music.beat(BeatFraction.Half))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Half))
+    music.playTone(262, music.beat(BeatFraction.Half))
+    music.playTone(247, music.beat(BeatFraction.Whole))
+    music.playTone(220, music.beat(BeatFraction.Whole))
+    music.playTone(196, music.beat(BeatFraction.Double))
+    music.rest(music.beat(BeatFraction.Sixteenth))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(349, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(349, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.rest(music.beat(BeatFraction.Sixteenth))
+    music.playTone(440, music.beat(BeatFraction.Whole))
+    music.playTone(440, music.beat(BeatFraction.Half))
+    music.playTone(440, music.beat(BeatFraction.Half))
+    music.playTone(440, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(349, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(349, music.beat(BeatFraction.Double))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Half))
+    music.playTone(349, music.beat(BeatFraction.Half))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Half))
+    music.playTone(262, music.beat(BeatFraction.Half))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Double))
+    music.rest(music.beat(BeatFraction.Sixteenth))
+    music.playTone(440, music.beat(BeatFraction.Whole))
+    music.playTone(440, music.beat(BeatFraction.Half))
+    music.playTone(440, music.beat(BeatFraction.Half))
+    music.playTone(440, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(349, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Whole))
+    music.playTone(349, music.beat(BeatFraction.Double))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(330, music.beat(BeatFraction.Half))
+    music.playTone(349, music.beat(BeatFraction.Half))
+    music.playTone(392, music.beat(BeatFraction.Whole))
+    music.playTone(392, music.beat(BeatFraction.Half))
+    music.playTone(262, music.beat(BeatFraction.Half))
+    music.playTone(262, music.beat(BeatFraction.Whole))
+    music.playTone(294, music.beat(BeatFraction.Whole))
+    music.playTone(262, music.beat(BeatFraction.Double))
+}
 function light_control () {
     if (button_count == 1) {
         light.showRing(
@@ -26,11 +114,20 @@ function light_control () {
         light.clear()
     }
 }
-function o_little_town_of_bethlehem () {
-	
-}
 input.buttonA.onEvent(ButtonEvent.LongClick, function () {
-    silent_night()
+    if (0 == music_playing) {
+        music_playing = 1
+        music.setVolume(255)
+        if (played_hark_last == 1) {
+            silent_night()
+            played_hark_last = 0
+        } else {
+            hark_the_herald_angels_sing()
+            played_hark_last = 1
+        }
+        music.setVolume(0)
+        music_playing = 0
+    }
 })
 input.buttonA.onEvent(ButtonEvent.Click, function () {
     button_count += 1
@@ -115,12 +212,15 @@ function silent_night () {
     music.playTone(392, music.beat(BeatFraction.Half))
     music.playTone(349, music.beat(BeatFraction.Half))
     music.playTone(294, music.beat(BeatFraction.Whole))
-    music.playTone(262, music.beat(BeatFraction.Breve))
+    music.playTone(262, music.beat(BeatFraction.Double))
+    music.playTone(262, music.beat(BeatFraction.Double))
     music.rest(music.beat(BeatFraction.Sixteenth))
 }
+let music_playing = 0
+let played_hark_last = 0
 let button_count = 0
 button_count = 0
-music.stopAllSounds()
+played_hark_last = 1
 music.setVolume(0)
 forever(function () {
     light_control()
